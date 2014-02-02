@@ -1,0 +1,36 @@
+Config|a:3:{s:9:"userAgent";s:32:"1118db6d4845c427bd57ed865d616122";s:4:"time";i:1389125390;s:9:"countdown";i:10;}Message|a:0:{}qsearch|s:0:"";User|a:11:{s:2:"id";s:1:"2";s:4:"name";s:13:"Abdul Latheef";s:7:"loginid";s:13:"a.latheef.mds";s:5:"eMail";s:27:"a.latheef.mds@mobily.com.sa";s:11:"server_show";s:337:"hostname
+location
+hostid
+os_type
+os_version
+rack_no
+serial
+project
+applications
+owners
+teams
+emails
+support_level
+hw_type
+hw_level
+pcpus
+lcpus
+memory
+cputype
+ethernet_ips
+mac_addresses
+wwn_ports
+cluster
+console_ip
+uptime
+tags
+syslog_running
+gmond_running
+tsm_running
+patrol_running
+last_check
+notes
+created
+modified
+cpu_speed
+criticality";s:16:"server_alertedit";b:0;s:14:"server_perpage";s:2:"10";s:9:"agreement";b:1;s:8:"group_id";s:1:"1";s:10:"last_visit";s:19:"2013-12-27 20:03:07";s:6:"status";s:10:"authorized";}Group|a:12:{s:2:"id";s:1:"1";s:4:"name";s:13:"Administrator";s:10:"server_add";b:1;s:11:"server_edit";s:1:"*";s:11:"server_show";s:1:"*";s:12:"server_where";N;s:16:"server_showAudit";s:1:"1";s:13:"server_export";s:1:"1";s:19:"server_showSecurity";s:1:"1";s:16:"menu_fullcontrol";s:1:"1";s:7:"menu_id";s:2:"19";s:14:"HardwareLayout";s:1:"1";}

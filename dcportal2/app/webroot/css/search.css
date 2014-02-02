@@ -1,0 +1,33 @@
+select {
+ background-color: #666699;
+ color: #ffffff;
+ width: 300px;
+ padding: 5px;
+ font-size: 16px;
+ border: 1px solid #ccc;
+#   height: 34px;
+}
+
+.separator {
+        clear: both;
+        width: 20%;
+        border-top: 1px solid black;
+    }
+
+.droptable
+{
+border-collapse:collapse;
+width:100%;
+}
+.droptable, td
+{
+border:0px solid black;
+width:600px;
+}
+.option
+{
+border:0px solid black;
+width:30px;
+vertical-align: middle;
+}
+
